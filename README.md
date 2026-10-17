@@ -15,7 +15,7 @@ I'm a Computer Science and Engineering graduate passionate about Python, Data Sc
 
 - **Programming:** Python, C, SQL
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning:** Random Forest, DecisonTree,Linear Regression.Logistic Regression,K-means Clustering,SVM, XGBoost
+- **Machine Learning:** Random Forest, DecisonTree,Linear Regression,Logistic Regression,K-means Clustering,SVM, XGBoost
 - **Data Visualization:** Power BI,Tableau
 - **Frontend Development:** HTML, CSS, JavaScript,React.js,Flask
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
