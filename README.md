@@ -7,7 +7,7 @@ I'm a Computer Science and Engineering graduate passionate about Python, Data Sc
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech Graduate in Computer Science and Engineering
-- 💻 Interested in Data Science, Machine Learning, and AI
+- 💻 Interested in Data Science, Machine Learning, and AI, Frontend Development
 - 🌱 Currently improving my Python, SQL, and Machine Learning skills
 - 🎯 Looking for opportunities to begin my career in the tech industry
 
