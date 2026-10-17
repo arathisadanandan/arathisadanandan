@@ -1,4 +1,4 @@
-M# Hi there, I'm Arathi Sadanandan! 👋
+# Hi there, I'm Arathi Sadanandan! 👋
 
 ### Computer Science Graduate | Python Developer | Aspiring Data Scientist | AI/ML | Frontend Developer |
 
