@@ -1,4 +1,4 @@
-# Hi there, I'm Arathi Sadanandan! 👋
+M# Hi there, I'm Arathi Sadanandan! 👋
 
 ### Computer Science Graduate | Python Developer | Aspiring Data Scientist | AI/ML | Frontend Developer |
 
@@ -9,7 +9,6 @@ I'm a Computer Science and Engineering graduate passionate about Python, Data Sc
 - 🎓 B.Tech Graduate in Computer Science and Engineering
 - 💻 Interested in Data Science, Machine Learning, and AI
 - 🌱 Currently improving my Python, SQL, and Machine Learning skills
-- 🔭 Working on 
 - 🎯 Looking for opportunities to begin my career in the tech industry
 
 ## 🛠️ Technical Skills
