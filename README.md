@@ -1,13 +1,13 @@
 # Hi there, I'm Arathi Sadanandan! 👋
 
-### Computer Science Graduate | Python Developer |  Data Science | AI/ML | Frontend Developer |
+### Computer Science Graduate | Python Developer |  Data Science | AI/ML | Frontend Developer | Data Analyst
 
 I'm a Computer Science and Engineering graduate passionate about Python, Data Science, Machine Learning, Artificial Intelligence and Frontend Development. I enjoy learning new technologies and building practical projects to solve real-world problems.
 
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech Graduate in Computer Science and Engineering
-- 💻 Interested in Data Science, Machine Learning and AI, Frontend Development
+- 💻 Interested in Data Science, Machine Learning and AI, Data Analyst,Frontend Development 
 - 🌱 Currently improving my Python, SQL, and Machine Learning, Frontend Technology skills
 - 🎯 Looking for opportunities to begin my career in the tech industry
 
@@ -30,6 +30,9 @@ A machine learning project that analyzes water quality parameters to predict whe
 
 ### 4. Disaster Relief Donation Tracking System
 A web-based application designed to manage disaster relief donations and track contributions efficiently. The system aims to improve transparency and help organize donations for disaster-affected communities.
+
+### 5.Sales Analysis Dashboard
+Developed an interactive Pizza Sales Dashboard using Power BI to analyze sales performance, revenue trends, and customer ordering patterns.
 
 ## 🤝 Connect With Me
 
